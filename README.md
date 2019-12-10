@@ -31,5 +31,18 @@
    isAvgWhole([9, 2, 2, 5]) ➞ false  
 
 #Lauren's Exercises
+1. Rock paper scissors
 
+    *Have a user input rock/paper/scissors and have them play against the computer
+    
+    *Display the result of the game
+    
+    *Continue playing the game if the user chooses to
+    
+2.  User bank account
 
+    *A user account that can withdrawal and deposit money 
+    
+    *If the amount they withdraw exceeds the balance throw a error
+
+    
