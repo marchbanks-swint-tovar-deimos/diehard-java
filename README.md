@@ -65,5 +65,18 @@
    If the subtracted number is less than 1000, add an extra zero to that number. The number 1111 will equal 0000, so this number (1111) is invalid. If you're still unclear, please check the comments section.
 
 #Lauren's Exercises
+1. Rock paper scissors
 
+    *Have a user input rock/paper/scissors and have them play against the computer
+    
+    *Display the result of the game
+    
+    *Continue playing the game if the user chooses to
+    
+2.  User bank account
 
+    *A user account that can withdrawal and deposit money 
+    
+    *If the amount they withdraw exceeds the balance throw a error
+
+    
