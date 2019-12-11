@@ -102,12 +102,12 @@
 
 3. Garment Barn Invoice
 
-    *A store that will show a completed invoice 
-     
-    *The total quantity ordered 
-      
-    *The total the whole invoice is
-       
-    *If the quantity is zero then it should not be added to the invoices total/totalqty
+     *A store that will show a completed invoice 
+         
+     *The total quantity ordered 
+          
+     *The total the whole invoice is
+           
+     *If the quantity is zero then it should not be added to the invoices total/totalqty
         
     
