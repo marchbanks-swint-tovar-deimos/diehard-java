@@ -101,9 +101,13 @@
     *If the amount they withdraw exceeds the balance throw a error
 
 3. Garment Barn Invoice
+
     *A store that will show a completed invoice 
-        -the total quantity ordered 
-        -the total the whole invoice is
-        -if the quantity is zero then it should not be added to the invoices total/totalqty
+     
+    *The total quantity ordered 
+      
+    *The total the whole invoice is
+       
+    *If the quantity is zero then it should not be added to the invoices total/totalqty
         
     
