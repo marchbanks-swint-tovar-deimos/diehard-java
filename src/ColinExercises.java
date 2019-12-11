@@ -93,4 +93,14 @@ public class ColinExercises {
         return biggerInt - smallerInt;
     }
 
+    public static String convertToRoman(int num) {
+        String[] numerals = new String[]{"MC","M","CM","DC","D","CD","C","LX","L","XL","XXX","XX","X","IX","VIII","VII","VI","V","IV","III","II","I"};
+        String[] numBroken = Integer.toString(num).split("");
+        String numConverted = "";
+        switch (numBroken[3]){
+            case "0"
+        }
+        return numConverted;
+    }
+
 }
