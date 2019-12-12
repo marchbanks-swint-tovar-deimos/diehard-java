@@ -24,6 +24,7 @@
 #Colin's Exercises
 
 1. Odd One Out
+
    Write a function that returns true if exactly one word in the array differs in length from the rest. Return false in all other cases.
    
    Examples
@@ -37,22 +38,22 @@
    Notes
    The length of the array will always have at least three or more words.
   
-2. Is the Average of All Elements a Whole Number?
-   Create a function that takes an array as an argument and returns true or false depending on whether the average of all elements in the array is a whole number or not.
+2. Roman Numeral Converter
+
+   Create a function that takes an Arabic number and converts it into a Roman number.
    
    Examples
-   isAvgWhole([1, 3]) ➞ true
+   convertToRoman(2) ➞ "II"
    
-   isAvgWhole([1, 2, 3, 4]) ➞ false
+   convertToRoman(12) ➞ "XII"
    
-   isAvgWhole([1, 5, 6]) ➞ true
+   convertToRoman(16) ➞ "XVI"
+   Notes
+   All roman numerals should be returned as uppercase.
+   The largest number that can be represented in this notation is 3,999. 
    
-   isAvgWhole([1, 1, 1]) ➞ true
-   
-   isAvgWhole([9, 2, 2, 5]) ➞ false  
-   
-
 3. Kaprekar's Constant
+
    6174 is known as one of Kaprekar's constants, after the Indian mathematician D. R. Kaprekar. Number 6174 is notable for the following rule:
    
    Take any four-digit number, using at least two different digits (leading zeros are allowed).
